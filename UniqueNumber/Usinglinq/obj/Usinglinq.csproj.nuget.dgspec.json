@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj": {}
+    "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj": {}
   },
   "projects": {
-    "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj": {
+    "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
+        "projectUniqueName": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
         "projectName": "Usinglinq",
-        "projectPath": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
+        "projectPath": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
         "packagesPath": "C:\\Users\\prame\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\obj\\",
+        "outputPath": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prame\\AppData\\Roaming\\NuGet\\NuGet.Config",

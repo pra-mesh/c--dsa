@@ -14,3 +14,17 @@ System.Console.WriteLine($"[{string.Join(", ", uniqueNumbers1)}]");
 //Instead of where used SelectMany whit a new int array defined;
  uniqueNumbers = inputs.GroupBy(x=>x).SelectMany(g=>g.Count()==1 ? new [] {g.Key} : new int[]{}).ToList();
 System.Console.WriteLine($"[{string.Join(", ", uniqueNumbers)}]");
+
+/*Performance and Memory Efficiency Analysis
+First Approach (GroupBy, Where, Select):
+Time Complexity: O(n + k log k) where n is the number of elements and k is the number of unique elements.
+Memory Usage: Moderate, as it creates intermediate groupings and a list of unique elements.
+Second Approach (Where with Count):
+Time Complexity: O(n^2) because for each element, it counts occurrences in the entire array.
+Memory Usage: Low, but the quadratic time complexity makes it inefficient for large arrays.
+Third Approach (GroupBy and SelectMany):
+Time Complexity: O(n + k log k) similar to the first approach.
+Memory Usage: Moderate, similar to the first approach, as it also creates intermediate groupings and a list of unique elements.
+Conclusion
+Fastest: The first and third approaches are faster due to their linearithmic time complexity.
+Most Memory Efficient: The second approach uses less memory but is significantly slower due to its quadratic time complexity. */
