@@ -1,0 +1,14 @@
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.AssemblyInfoInputs.cache
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.AssemblyInfo.cs
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.csproj.CoreCompileInputs.cache
+D:\repos\c# dsa\UniqueNumber\Usinglinq\bin\Debug\net8.0\Usinglinq.exe
+D:\repos\c# dsa\UniqueNumber\Usinglinq\bin\Debug\net8.0\Usinglinq.deps.json
+D:\repos\c# dsa\UniqueNumber\Usinglinq\bin\Debug\net8.0\Usinglinq.runtimeconfig.json
+D:\repos\c# dsa\UniqueNumber\Usinglinq\bin\Debug\net8.0\Usinglinq.dll
+D:\repos\c# dsa\UniqueNumber\Usinglinq\bin\Debug\net8.0\Usinglinq.pdb
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.dll
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\refint\Usinglinq.dll
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.pdb
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.genruntimeconfig.cache
+D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\ref\Usinglinq.dll

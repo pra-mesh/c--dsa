@@ -1,0 +1,14 @@
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\bin\Debug\net8.0\MaskingNumberwithoutmethod.exe
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\bin\Debug\net8.0\MaskingNumberwithoutmethod.deps.json
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\bin\Debug\net8.0\MaskingNumberwithoutmethod.runtimeconfig.json
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\bin\Debug\net8.0\MaskingNumberwithoutmethod.dll
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\bin\Debug\net8.0\MaskingNumberwithoutmethod.pdb
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.AssemblyInfoInputs.cache
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.AssemblyInfo.cs
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.csproj.CoreCompileInputs.cache
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.dll
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\refint\MaskingNumberwithoutmethod.dll
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.pdb
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.genruntimeconfig.cache
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\ref\MaskingNumberwithoutmethod.dll
