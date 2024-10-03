@@ -1,0 +1,15 @@
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfoInputs.cache
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfo.cs
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.csproj.CoreCompileInputs.cache
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.sourcelink.json
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\bin\Debug\net8.0\UsingDictionary.exe
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\bin\Debug\net8.0\UsingDictionary.deps.json
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\bin\Debug\net8.0\UsingDictionary.runtimeconfig.json
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\bin\Debug\net8.0\UsingDictionary.dll
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\bin\Debug\net8.0\UsingDictionary.pdb
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.dll
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\refint\UsingDictionary.dll
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.pdb
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\UsingDictionary.genruntimeconfig.cache
+D:\repos\c# dsa\UniqueNumber\UsingDictionary\obj\Debug\net8.0\ref\UsingDictionary.dll
