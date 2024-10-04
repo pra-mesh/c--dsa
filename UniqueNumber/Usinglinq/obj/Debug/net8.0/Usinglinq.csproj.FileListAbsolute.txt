@@ -12,3 +12,4 @@ D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\refint\Usinglinq.dll
 D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.pdb
 D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.genruntimeconfig.cache
 D:\repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\ref\Usinglinq.dll
+D:\Repos\c# dsa\UniqueNumber\Usinglinq\obj\Debug\net8.0\Usinglinq.sourcelink.json

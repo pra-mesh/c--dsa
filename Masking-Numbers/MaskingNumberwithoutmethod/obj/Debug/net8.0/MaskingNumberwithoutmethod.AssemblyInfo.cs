@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaskingNumberwithoutmethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc866323af87b40eac4d539fa1686dbe8cfb933f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff0c48207511340ee90c841e1435d77d3f108611")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaskingNumberwithoutmethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaskingNumberwithoutmethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

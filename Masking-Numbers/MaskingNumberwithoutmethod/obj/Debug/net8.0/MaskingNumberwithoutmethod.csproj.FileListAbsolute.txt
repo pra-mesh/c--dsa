@@ -12,3 +12,4 @@ D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\refi
 D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.pdb
 D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.genruntimeconfig.cache
 D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\ref\MaskingNumberwithoutmethod.dll
+D:\Repos\c# dsa\Masking-Numbers\MaskingNumberwithoutmethod\obj\Debug\net8.0\MaskingNumberwithoutmethod.sourcelink.json
