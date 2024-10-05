@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Usinglinq", "UniqueNumber\U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usinglist", "OddEvenSeparate\Usinglist\Usinglist.csproj", "{FF74FE82-A228-4B40-A7E6-5FE736F0D818}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usingarrayonly", "OddEvenSeparate\usingarrayonly\usingarrayonly.csproj", "{00E77B49-5B09-4973-8445-25813C8BB43F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FF74FE82-A228-4B40-A7E6-5FE736F0D818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF74FE82-A228-4B40-A7E6-5FE736F0D818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF74FE82-A228-4B40-A7E6-5FE736F0D818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E77B49-5B09-4973-8445-25813C8BB43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E77B49-5B09-4973-8445-25813C8BB43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E77B49-5B09-4973-8445-25813C8BB43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E77B49-5B09-4973-8445-25813C8BB43F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{5CF7507A-FFB9-4821-AE31-501CF56B818A} = {1D995404-0C98-4B85-B551-6A0F1963E9AC}
 		{4D88A80F-E7F5-43E3-9C5B-CEFDA4ADAE85} = {1D995404-0C98-4B85-B551-6A0F1963E9AC}
 		{FF74FE82-A228-4B40-A7E6-5FE736F0D818} = {C4A6F718-8408-4083-BC45-7CFC300A4E27}
+		{00E77B49-5B09-4973-8445-25813C8BB43F} = {C4A6F718-8408-4083-BC45-7CFC300A4E27}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3FDDB7A1-2985-4091-9FCC-88A77EB43127}
