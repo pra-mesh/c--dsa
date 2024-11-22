@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
+      "projectUniqueName": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
       "projectName": "Usinglinq",
-      "projectPath": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
+      "projectPath": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\Usinglinq.csproj",
       "packagesPath": "C:\\Users\\prame\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\c# dsa\\UniqueNumber\\Usinglinq\\obj\\",
+      "outputPath": "D:\\Repos\\c# dsa\\UniqueNumber\\Usinglinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

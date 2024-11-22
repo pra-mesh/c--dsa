@@ -10,6 +10,8 @@ System.Console.WriteLine($"[{string.Join(", ", uniqueNumbers)}]");
 //Using Distinct can help if you don't want to iterate all value 
 int[] uniqueNumbers1 = inputs.Where(x=> inputs.Count(y=>y==x)==1).ToArray();
 System.Console.WriteLine($"[{string.Join(", ", uniqueNumbers1)}]");
+inputs.Distinct();
+System.Console.WriteLine();
 
 //Instead of where used SelectMany whit a new int array defined;
  uniqueNumbers = inputs.GroupBy(x=>x).SelectMany(g=>g.Count()==1 ? new [] {g.Key} : new int[]{}).ToList();

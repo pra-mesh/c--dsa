@@ -27,17 +27,13 @@ Console.WriteLine("Using simple loop " + maxnumber);
 //using recursive method
 int[] arr1 = { 0, 1, 2, 19, 9, 12, 5, 6, 6 };
 maxnumber = FindMaxRecursive(arr1, 0);
-int FindMaxRecursive(int[] arr1, int index
-)
+int FindMaxRecursive(int[] arr1, int index)
 {
     if (arr1.Length - 1 == index)
     {
         return arr1[index];
-
     }
-    Console.WriteLine(index);
     int maxnumber = FindMaxRecursive(arr1, index + 1);
-    Console.WriteLine(index);
     return arr1[index] > maxnumber ? arr1[index] : maxnumber;
 }
 System.Console.WriteLine("MAx Number using recursive method " + maxnumber);
